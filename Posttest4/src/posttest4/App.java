@@ -287,7 +287,7 @@ public class App {
                 pembeli_baru.setNama_pembeli(nama_pembeli);
                 pembeli_baru.setNo_telepon(no_telepon);
                 beli_kacamata.setFrame(frame_kacamata);
-                beli_kacamata.setFrame(warna);
+                beli_kacamata.setWarna(warna);
                 beli_kacamata.setHarga(harga);
                 beli_kacamata.setPreskripsi(preskripsi);
                 listpembeli.set(indeks, pembeli_baru);
